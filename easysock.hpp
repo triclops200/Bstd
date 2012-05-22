@@ -1,3 +1,4 @@
+//LINUX ONLY, WORKING ON WINDOWS VERSION
 #ifndef __EASYSOCK_HPP__
 #define __EASYSOCK_HPP__
 #include <stdio.h>
